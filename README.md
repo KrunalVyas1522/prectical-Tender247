@@ -1,4 +1,4 @@
-# prectical-Tender247
+# Sample Blog-post management
 
 Swagger API Documentation URL : http://localhost:3001/api
 
